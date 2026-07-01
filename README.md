@@ -13,6 +13,8 @@
 
 ---
 
+<div align="center">
+
 ## 🧬 Identity
 
 |  |  |
@@ -33,6 +35,8 @@
 | 🔥 | **PyTorch** | Learning neural networks and MLP Regression for house price prediction |
 | 🌐 | **Web Basics** | Building simple web interfaces using HTML and CSS |
 | 🛠️ | **GitHub Workflow** | Practicing Git, GitHub, branches, commits, and project documentation |
+
+</div>
 
 ---
 
@@ -69,7 +73,7 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tuvienn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
 
   <br>
@@ -78,7 +82,6 @@
 
 </div>
 
-> 💡 **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to see your stats and profile views!
 
 ---
 
