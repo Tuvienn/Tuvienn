@@ -99,9 +99,4 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+GitHub+profile.;Learning+today,+building+for+tomorrow.;Data+Science+%26+AI+Journey." alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=5" width="100%" />
-
 </div>
