@@ -31,7 +31,6 @@
 | 🧠 | **Machine Learning** | Building basic ML workflows: preprocessing, training, evaluation, and comparison |
 | 🔥 | **PyTorch** | Learning neural networks and MLP Regression for house price prediction |
 | 🌐 | **Web Basics** | Building simple web interfaces using HTML and CSS |
-| 🛠️ | **GitHub Workflow** | Practicing Git, GitHub, branches, commits, and project documentation |
 
 </div>
 
@@ -87,8 +86,8 @@
 <a href="https://www.linkedin.com/in/viên-nguyễn-a59550411">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="[nguyenthituvien2005@gmail.com](https://mail.google.com/mail/u/2/#inbox)">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:nguyenthituvien2005@gmail.com">
+  <img src="https://img.shields.io/badge/nguyenthituvien2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
