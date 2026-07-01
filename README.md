@@ -76,24 +76,28 @@
 ---
 
 
-## 📫 Let's Connect!
-
 <div align="center">
 
-<a href="https://github.com/Tuvienn">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/viên-nguyễn-a59550411">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:nguyenthituvien2005@gmail.com">
-  <img src="https://img.shields.io/badge/nguyenthituvien2005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+## 🌐 Contact Channel
 
 <br>
 
+<a href="tel:+84335637198">
+  <img src="https://img.shields.io/badge/PHONE-+84%20335%20052%20899-101820?style=for-the-badge&logo=phonepe&logoColor=00D9FF&labelColor=101820&color=00D9FF" alt="Phone" />
+</a>
+
+<a href="mailto:nguyenthituvien2005@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-nguyenthituvien2005%40gmail.com-101820?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101820&color=EA4335" alt="Email" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Tuvienn&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=Thanks%20for%20visiting!&desc=Keep%20learning%20%7C%20Keep%20building&fontSize=34&descSize=18&fontColor=ffffff&descAlignY=68&animation=twinkling" width="100%" />
+
 </div>
