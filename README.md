@@ -54,39 +54,6 @@ Hi, I'm **Stella**, an **Information Technology student** at **University of Tra
 
 ---
 
-## 🚀 Featured Projects
-
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏡 House Price Prediction (MLP Regression)</h3>
-      <br />
-      A Machine Learning workflow for predicting house prices using a <b>Multilayer Perceptron Regression</b> model in PyTorch.
-      <br /><br />
-      <b>Workflow:</b> EDA ➡️ Preprocessing ➡️ Model Training ➡️ Evaluation ➡️ Web Demo
-      <br /><br />
-      <b>Tech:</b> Python, Pandas, NumPy, PyTorch, Scikit-learn, HTML, CSS
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Spectral Clustering vs K-Means</h3>
-      <br />
-      A comparative analysis project evaluating the performance of <b>K-Means</b> and <b>Spectral Clustering</b> across different datasets.
-      <br /><br />
-      <b>Metrics:</b> Silhouette Score, ARI, NMI, SSE, Purity
-      <br /><br />
-      <b>Tech:</b> Python, Scikit-learn, Pandas, Matplotlib
-    </td>
-  </tr>
-</table>
-
-### 📚 Academic Implementations
-I also practice core concepts through focused mini-projects:
-- Linear Regression & Classification models.
-- Database design and SQL querying.
-- Data Structures and Algorithms optimization.
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -104,24 +71,6 @@ I also practice core concepts through focused mini-projects:
 
 ---
 
-## 🛣️ Learning Roadmap
-
-<details>
-<summary><b>Click to expand my Data Science & AI Roadmap 🗺️</b></summary>
-
-```text
-Data Science & AI
- ├── Python for Data Analysis
- ├── Data Cleaning & Preprocessing
- ├── Machine Learning Models
- ├── Deep Learning with PyTorch
- ├── Model Evaluation
- ├── SQL & Database
- └── Web Deployment for ML Projects
-```
-</details>
-
----
 
 ## 📫 Let's Connect!
 
