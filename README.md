@@ -1,34 +1,35 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Stella%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
 <div align="center">
 
-# Hi there, I'm Stella 👋
+### 👩‍💻 IT Student | 📊 Data Science & AI Learner | 🐍 Python & ML Enthusiast
 
-### IT Student | Data Science & AI Learner | Python & Machine Learning Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Data+Science+%26+AI+Learner;Building+Machine+Learning+Projects;Learning+Python%2C+PyTorch%2C+SQL+and+Web+Dev" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Data+Science+%26+AI+Learner;Building+Machine+Learning+Projects;Learning+Python%2C+PyTorch%2C+SQL+and+Web+Development" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## About Me
+## 💫 About Me
 
-Hi, I'm **Stella**. I am an **Information Technology student** at **University of Transport in Ho Chi Minh City**.
+Hi, I'm **Stella**, an **Information Technology student** at **University of Transport in Ho Chi Minh City**. I have a strong passion for data and algorithms, and I love transforming raw data into meaningful insights.
 
-I am currently learning and building projects in **Data Science, Artificial Intelligence, Machine Learning, and Web Development**. I enjoy turning data into useful insights and building practical applications from what I learn in class and personal projects.
-
-- Currently focusing on **Machine Learning, Data Analysis, and AI projects**
-- Learning **Python, SQL, PyTorch, Scikit-learn, HTML, CSS, and GitHub workflow**
-- Interested in **Data Science, AI Engineering, and practical ML applications**
-- Goal: become stronger at building real-world AI and data products
+- 🔭 I’m currently focusing on **Machine Learning, Data Analysis, and AI projects**.
+- 🌱 I’m currently learning **Python, SQL, PyTorch, Scikit-learn, HTML, CSS, and GitHub workflow**.
+- 👯 I’m looking to collaborate on **Open Source AI / Data Science projects**.
+- 🎯 Goal: Become a proficient **AI Engineer / Data Scientist** capable of building real-world applications.
+- ⚡ Fun fact: I love discovering hidden patterns in datasets!
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Programming & Data
-
+### 💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C++](https://img.shields.io/badge/C++-101820?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -36,15 +37,13 @@ I am currently learning and building projects in **Data Science, Artificial Inte
 ![NumPy](https://img.shields.io/badge/NumPy-101820?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-101820?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Machine Learning & AI
-
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-101820?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+### 🧠 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-101820?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-101820?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Jupyter](https://img.shields.io/badge/Jupyter-101820?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-101820?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
 
-### Web & Tools
-
+### 🌐 Web & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-101820?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-101820?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/Git-101820?style=for-the-badge&logo=git&logoColor=F05032)
@@ -55,104 +54,93 @@ I am currently learning and building projects in **Data Science, Artificial Inte
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### House Price Prediction using MLP Regression
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏡 House Price Prediction (MLP Regression)</h3>
+      <br />
+      A Machine Learning workflow for predicting house prices using a <b>Multilayer Perceptron Regression</b> model in PyTorch.
+      <br /><br />
+      <b>Workflow:</b> EDA ➡️ Preprocessing ➡️ Model Training ➡️ Evaluation ➡️ Web Demo
+      <br /><br />
+      <b>Tech:</b> Python, Pandas, NumPy, PyTorch, Scikit-learn, HTML, CSS
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Spectral Clustering vs K-Means</h3>
+      <br />
+      A comparative analysis project evaluating the performance of <b>K-Means</b> and <b>Spectral Clustering</b> across different datasets.
+      <br /><br />
+      <b>Metrics:</b> Silhouette Score, ARI, NMI, SSE, Purity
+      <br /><br />
+      <b>Tech:</b> Python, Scikit-learn, Pandas, Matplotlib
+    </td>
+  </tr>
+</table>
 
-A Machine Learning project for predicting house prices using a **Multilayer Perceptron Regression** model.
-
-**Main workflow:**
-
-- Define problem and understand dataset
-- Data loading and data overview
-- Data cleaning and outlier handling
-- Exploratory Data Analysis with tables and charts
-- Feature engineering and preprocessing
-- Train/validation/test split
-- MLP model training with PyTorch
-- Model evaluation and comparison
-- Web demo interface for house price prediction
-
-**Tech:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch, HTML, CSS
-
----
-
-### Spectral Clustering Project
-
-A clustering project that compares **K-Means** and **Spectral Clustering** on multiple datasets.
-
-**Main workflow:**
-
-- Load and clean datasets
-- Visualize original data
-- Preprocess data
-- Build K-Means baseline
-- Apply Spectral Clustering
-- Evaluate clustering results
-- Compare models using metrics and visualizations
-
-**Metrics:** Silhouette Score, ARI, NMI, SSE, Purity  
-**Tech:** Python, NumPy, Pandas, Matplotlib, Machine Learning
+### 📚 Academic Implementations
+I also practice core concepts through focused mini-projects:
+- Linear Regression & Classification models.
+- Database design and SQL querying.
+- Data Structures and Algorithms optimization.
 
 ---
 
-### Student Learning Projects
+## 📈 GitHub Analytics
 
-I also practice with smaller academic projects related to:
+<div align="center">
 
-- Linear Regression
-- Classification
-- Data preprocessing
-- Database and SQL
-- Data Structures and Algorithms
-- Web interface design with HTML and CSS
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+
+</div>
+
+> 💡 **Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to see your stats and profile views!
 
 ---
 
-## Current Learning Roadmap
+## 🛣️ Learning Roadmap
+
+<details>
+<summary><b>Click to expand my Data Science & AI Roadmap 🗺️</b></summary>
 
 ```text
 Data Science & AI
-├── Python for Data Analysis
-├── Data Cleaning & Preprocessing
-├── Machine Learning Models
-├── Deep Learning with PyTorch
-├── Model Evaluation
-├── SQL & Database
-└── Web Deployment for ML Projects
+ ├── Python for Data Analysis
+ ├── Data Cleaning & Preprocessing
+ ├── Machine Learning Models
+ ├── Deep Learning with PyTorch
+ ├── Model Evaluation
+ ├── SQL & Database
+ └── Web Deployment for ML Projects
 ```
+</details>
 
 ---
 
-## GitHub Analytics
+## 📫 Let's Connect!
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` with your real GitHub username.
-
----
-
-## Connect With Me
+<br>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-101820?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my GitHub profile ✨
-
-"Keep learning, keep building, and improve a little every day."
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
