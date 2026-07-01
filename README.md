@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-Hi, I'm **Stella**, an **Information Technology student** at **University of Transport in Ho Chi Minh City**. I have a strong passion for data and algorithms, and I love transforming raw data into meaningful insights.
+Hi, I'm **Tú Viên**, an **Information Technology student** at **University of Transport in Ho Chi Minh City**. I have a strong passion for data and algorithms, and I love transforming raw data into meaningful insights.
 
 - 🔭 I’m currently focusing on **Machine Learning, Data Analysis, and AI projects**.
 - 🌱 I’m currently learning **Python, SQL, PyTorch, Scikit-learn, HTML, CSS, and GitHub workflow**.
