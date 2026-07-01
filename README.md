@@ -14,6 +14,7 @@
 
 ## 🧬 Identity
 
+|  |  |  |
 |---|---|
 | 👤 **Full Name** | Nguyễn Thị Tú Viên |
 | 🎓 **University** | University of Transport in Ho Chi Minh City |
@@ -22,7 +23,7 @@
 
 ## 🎯 Learning Log
 
-
+|  |  |  |
 |---|---|---|
 | 🐍 | **Python** | Learning Python for data processing, machine learning, and academic projects |
 | 🗄️ | **SQL & Database** | Practicing database design, queries, joins, grouping, and normalization |
