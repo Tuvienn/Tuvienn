@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Tú Viên%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20T%C3%BA%20Vi%C3%AAn%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <div align="center">
 
