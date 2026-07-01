@@ -13,15 +13,26 @@
 
 ---
 
-## 💫 About Me
+## 🧬 Identity
 
-Hi, I'm **Tú Viên**, an **Information Technology student** at **University of Transport in Ho Chi Minh City**. I have a strong passion for data and algorithms, and I love transforming raw data into meaningful insights.
+|  |  |
+|---|---|
+| 👤 **Full Name** | Nguyễn Thị Tú Viên |
+| 🎓 **University** | University of Transport in Ho Chi Minh City |
+| 💻 **Field** | Information Technology |
+| 📊 **Direction** | Data Science & Artificial Intelligence |
 
-- 🔭 I’m currently focusing on **Machine Learning, Data Analysis, and AI projects**.
-- 🌱 I’m currently learning **Python, SQL, PyTorch, Scikit-learn, HTML, CSS, and GitHub workflow**.
-- 👯 I’m looking to collaborate on **Open Source AI / Data Science projects**.
-- 🎯 Goal: Become a proficient **AI Engineer / Data Scientist** capable of building real-world applications.
-- ⚡ Fun fact: I love discovering hidden patterns in datasets!
+## 🎯 Learning Log
+
+|  |  |  |
+|---|---|---|
+| 🐍 | **Python** | Learning Python for data processing, machine learning, and academic projects |
+| 🗄️ | **SQL & Database** | Practicing database design, queries, joins, grouping, and normalization |
+| 📊 | **Data Analysis** | Working with datasets, cleaning data, visualizing data, and finding useful insights |
+| 🧠 | **Machine Learning** | Building basic ML workflows: preprocessing, training, evaluation, and comparison |
+| 🔥 | **PyTorch** | Learning neural networks and MLP Regression for house price prediction |
+| 🌐 | **Web Basics** | Building simple web interfaces using HTML and CSS |
+| 🛠️ | **GitHub Workflow** | Practicing Git, GitHub, branches, commits, and project documentation |
 
 ---
 
@@ -63,7 +74,7 @@ Hi, I'm **Tú Viên**, an **Information Technology student** at **University of 
 
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuvienn&theme=radical&hide_border=true" />
 
 </div>
 
@@ -76,13 +87,13 @@ Hi, I'm **Tú Viên**, an **Information Technology student** at **University of 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Tuvienn">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/viên-nguyễn-a59550411">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="nguyenthituvien2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
