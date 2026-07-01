@@ -1,9 +1,8 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20T%C3%BA%20Vi%C3%AAn%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20T%C3%BA%20Vi%C3%AAn%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 <div align="center">
 
-### 👩‍💻 IT Student | 📊 Data Science & AI Learner | 🐍 Python & ML Enthusiast
+### 👩🏻‍💻 IT Student | 📊 Data Science & AI Learner | 🐍 Python & ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Data+Science+%26+AI+Learner;Building+Machine+Learning+Projects;Learning+Python%2C+PyTorch%2C+SQL+and+Web+Dev" alt="Typing SVG" />
 
