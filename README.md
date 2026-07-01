@@ -71,13 +71,13 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tuvienn&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuvienn&amp;layout=compact&amp;theme=radical&amp;hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuvienn&show_icons=true&theme=radical&hide_border=true)
 
-  <br><br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuvienn&layout=compact&theme=radical&hide_border=true)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuvienn&amp;theme=radical&amp;hide_border=true" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuvienn&theme=radical&hide_border=true" />
 
 </div>
 
