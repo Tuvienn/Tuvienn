@@ -7,8 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Data+Science+%26+AI+Learner;Building+Machine+Learning+Projects;Learning+Python%2C+PyTorch%2C+SQL+and+Web+Dev" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
@@ -73,15 +71,15 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tuvienn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
-
-  <br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tuvienn&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuvienn&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuvienn&amp;layout=compact&amp;theme=radical&amp;hide_border=true" />
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuvienn&amp;theme=radical&amp;hide_border=true" />
 
 </div>
-
 
 ---
 
